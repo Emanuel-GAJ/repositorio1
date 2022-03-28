@@ -1,0 +1,8 @@
+
+Listando os itens do primeiro diretório
+a.txt
+
+
+
+Listando os itens do segundo diretório
+b.txt
